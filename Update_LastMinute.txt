@@ -1,0 +1,3 @@
+https://github.com/pvanroy/Tektronix-CCD-Cooler
+2022-02-08 New file : Tek Cooler Assambly.pdf
+2022-02-08 Info: Al slt files are built with Autodesk Autocad 2021. The Autocad are available on request.
